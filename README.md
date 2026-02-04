@@ -21,4 +21,4 @@ Como a biblioteca de geração de PDF depende de drivers gráficos (GTK), recome
 
 1. Clone o repositório:
 ```bash
-git clone [https://github.com/seu-usuario/nome-do-repo.git](https://github.com/seu-usuario/nome-do-repo.git)
+git clone https://github.com/Caiolsiqueira/Bussines-Case-Ficha-Academia.git
